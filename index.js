@@ -18,6 +18,6 @@ function divide(a,b){
   return quotient
 }
 
-function increment(n){
+function inc(n){
   return n++
 }
