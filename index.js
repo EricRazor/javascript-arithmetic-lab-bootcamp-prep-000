@@ -26,7 +26,7 @@ function dec(n){
   return n - 1
 }
 
-function makeInteger(n){
+function makeInt(n){
   var makeInt = parseInt(n)
   return makeInt
 }
