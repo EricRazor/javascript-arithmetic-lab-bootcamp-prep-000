@@ -12,3 +12,8 @@ function multiply(a,b){
   var product = a * b 
   return product
 }
+
+function divide(a,b){
+  var quotient = a/b
+  return quotient
+}
